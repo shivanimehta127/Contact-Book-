@@ -86,19 +86,9 @@ Delete Contact:
             print("Contact not found")
 
             
-Getting Started 🚀
 Prerequisites
 Python 3.x installed on your machine.
 
-How to Run
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/yourusername/contact-book.git
-Navigate to the project directory:
-bash
-Copy code
-cd contact-book
 
 Run the Python script:
 bash
